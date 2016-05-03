@@ -1,0 +1,10 @@
+PODS:
+  - Sodium (0.1)
+
+DEPENDENCIES:
+  - Sodium (~> 0.1)
+
+SPEC CHECKSUMS:
+  Sodium: fa459e59912d3e6d44f3d9030fafc12c4079148d
+
+COCOAPODS: 0.39.0
